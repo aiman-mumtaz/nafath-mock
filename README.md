@@ -1,4 +1,4 @@
-# 🛡️ Nafath-Mock: AI-Enhanced SSO Middleware
+<h1 align="center">🛡️ Nafath-Mock: AI-Enhanced SSO Middleware</h1>
 
 <p align="center">
   <b>A high-fidelity simulation of the Saudi National Single Sign-On (Nafath) ecosystem.</b><br>
