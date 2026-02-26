@@ -74,6 +74,10 @@ nafath-project/
 │   └── public/             # Static Branding Assets
 └── README.md               # System Documentation
 ```
+
+## Future Scope
+1. Mock existing approver application
+
 <p align="center">
 Developed for secure, scalable authentication demonstrations.
 </p>
